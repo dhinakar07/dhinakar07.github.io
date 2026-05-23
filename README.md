@@ -2,7 +2,7 @@
 
 A personal portfolio website for **Dhinakar Yalla**, a Data Engineer with a Master's in Data Science. Built as a single-page application and hosted on GitHub Pages with a custom domain.
 
-🌐 **Live Site:** [dhinakar07.github.io](https://dhinakar07.github.io)
+🌐 **Live Site:** [dhinakayalla.com](https://dhinakar07.github.io)
 
 ---
 
